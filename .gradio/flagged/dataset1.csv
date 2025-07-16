@@ -1,0 +1,2 @@
+Upload Chest X-ray,Prediction Probabilities,Result,timestamp
+.gradio\flagged\Upload Chest X-ray\3bf8e3a327191de093e6\COVID-1.png,"{""label"": ""COVID"", ""confidences"": [{""label"": ""COVID"", ""confidence"": 99.78}, {""label"": ""Lung_Opacity"", ""confidence"": 0.12}, {""label"": ""Normal"", ""confidence"": 0.11}, {""label"": ""Viral Pneumonia"", ""confidence"": 0.0}]}",Predicted: COVID (99.78%),2025-07-11 12:15:56.194041
